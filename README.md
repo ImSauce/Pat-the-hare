@@ -2,9 +2,9 @@
 a simple patting game
 
 update:
--bug fixed of not being able to level up after  you reach level 16
--added new dialogs
--200 is now the max level
+1. bug fixed of not being able to level up after  you reach level 16
+2. added new dialogs
+3. 200 is now the max level
 
 HOW TO RUN step by step
 1. open "simpleLevelUP" folder
